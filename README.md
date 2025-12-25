@@ -85,12 +85,7 @@ Sau khi chạy lệnh "python manage.py seed_data", hệ thống sẽ có các t
 
 1. Quản trị viên (Admin):
    - Tên đăng nhập: admin
-   - Mật khẩu: (Mật khẩu mặc định được tạo trong file seed_data, thường là 123456)
-
-2. Giảng viên:
-   - Tên đăng nhập: gv001
-   - Mật khẩu: 123456
-
+   - Mật khẩu: (Mật khẩu mặc định được tạo trong file seed_data, thường là admin123)
 ---
 
 ## 5. MỘT SỐ LỖI THƯỜNG GẶP (TROUBLESHOOTING)
